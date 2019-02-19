@@ -1,0 +1,16 @@
+PODS:
+  - SpotifyKit (0.0.6)
+
+DEPENDENCIES:
+  - SpotifyKit (from `../SpotifyKit`)
+
+EXTERNAL SOURCES:
+  SpotifyKit:
+    :path: "../SpotifyKit"
+
+SPEC CHECKSUMS:
+  SpotifyKit: 57227c93fe3d6d799963692fefa89840cfe4d24d
+
+PODFILE CHECKSUM: 6db79422b5a8793e6d79b406564b6c10391fa3f2
+
+COCOAPODS: 1.5.3
